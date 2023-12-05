@@ -1,6 +1,10 @@
 # 20211398_SERVLET
 
+23년 11월 1일 10주차 - 장바구니 기능 및 페이지 구현 / [연습문제 : 로고 이미지 출력 오류 해결 / 자바 유틸 사용으로 날씨 클래스 연동]
+![image](https://github.com/teinoi/20211398_SERVLET/assets/129704422/dbb6f8bf-96e4-46b3-8bf6-1dc84dab7fc1)
+
 23년 10월 25일 9주차 - 쇼핑몰 로그인 기능 추가 / [연습문제 : 관리자 페이지 로그인 구현]
+![image](https://github.com/teinoi/20211398_SERVLET/assets/129704422/b2b38439-3da7-4dcd-b3b9-0b7f3568dda9)
 
 23년 10월 11일 7주차 - 상품 등록 기능 추가 / 관리자 페이지 생성
 
