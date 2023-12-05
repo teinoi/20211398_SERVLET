@@ -11,7 +11,7 @@ https://github.com/teinoi/20211398_SERVLET/issues/5#issue-2026060303
 23년 11월 8일 11주차 - 주문 처리 페이지 생성 / [연습문제 : 배송일 선택 / 국가명 select 박스 사용 / 주소 검색 사용]
 
 23년 11월 1일 10주차 - 장바구니 기능 및 페이지 구현 / [연습문제 : 로고 이미지 출력 오류 해결 / 날씨 클래스 오류 해결]
-https://github.com/teinoi/20211398_SERVLET/issues/1#issue-2026012633
+https://github.com/teinoi/20211398_SERVLET/issues/3#issue-2026023061
 
 23년 10월 25일 9주차 - 쇼핑몰 로그인 기능 추가 / [연습문제 : 관리자 페이지 로그인 구현]
 https://github.com/teinoi/20211398_SERVLET/issues/2#issue-2026021211
