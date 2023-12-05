@@ -96,6 +96,10 @@ public class Product implements Serializable { // 인터페이스 선언
 	    this.filename = filename;
     }
     
+    public String getFilename() { // 파일 이름 리턴
+        return filename;
+    }
+    
     public int getQuantity() {
         return quantity;
     }
@@ -103,11 +107,4 @@ public class Product implements Serializable { // 인터페이스 선언
     public void setQuantity(int quantity) {
 	    this.quantity = quantity;
     }
-
-    public String getFilename() { // 파일 이름 리턴
-        return filename;
-    }
-
 }
-
-

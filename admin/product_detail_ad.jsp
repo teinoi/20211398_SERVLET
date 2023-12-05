@@ -55,7 +55,7 @@
 	</form>
                 
                     <div class="card bg-dark text-dark">
-                    <img src="image/product/<%=product.getProductId()%>.png" class="card-img" alt="...">
+                    <img src="image/product/<%=product.getProductId()%>" class="card-img" alt="...">
                     <div class="card-img-overlay">
                     <h5 class="card-title">상품 이미지 원본</h5>
                     <p class="card-text">출처 : 구글 검색</p>
